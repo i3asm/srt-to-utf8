@@ -17,4 +17,4 @@ and if there is one, it will make a 'converted/' folder. this folder will contai
 
 ## FUTURE PLANS
 - [ ] make it work with other file extensions like txt or vvt
-- [ ] make it convert to other encodings
+- [ ] make it convert from other microsoft encodings to utf-8
