@@ -13,7 +13,7 @@ but if you are lucky and the encoding is Windows-1256, then your problem is solv
 it will move recursively throw the current folder searching for a .srt file.
 and if there is one, it will make a 'converted/' folder. this folder will contain all your converted subtitles as a utf-8 encoded ones.
 
-#### NOTE: this is a bit risky. using it in the home directory will run it through all your .srt files and try to re-encode them recursively
+#### NOTE: this is a bit risky. using it in the home directory will run it through all your user files looking for .srt files and try to re-encode it recursively
 
 ## FUTURE PLANS
 - [ ] make it work with other file extensions like txt or vvt
